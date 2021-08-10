@@ -195,3 +195,6 @@
             });
 
    })(jQuery);
+
+   $('.statistics').tilt({
+    scale: 1.1 });
